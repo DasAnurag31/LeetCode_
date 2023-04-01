@@ -14,4 +14,14 @@ ListNode nodePointer = nul;
 ListNode dummy = new ListNode();
 dummy.next = head;
 ```
-## 
+## Reaching the Middle of a Linked List
+* Use of a slow and a fast pointer where 
+```
+slow = head;
+fast = head.next;
+```
+* Increment the slow by one and the fast by two 
+* When the fast reaches the end or null then we know that the slow has reached the middle point 
+* When dividing an array the Second part of the array starts from the next node of the slow pointer
+## Reversing the Linked List
+* Take a temp vaeriable and reverse each connection one by one
