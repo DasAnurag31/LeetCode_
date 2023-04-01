@@ -21,7 +21,10 @@ slow = head;
 fast = head.next;
 ```
 * Increment the slow by one and the fast by two 
-* When the fast reaches the end or null then we know that the slow has reached the middle point 
+* When the fast reaches the end OR null then we know that the slow has reached the middle point 
 * When dividing an array the Second part of the array starts from the next node of the slow pointer
+* A->B->C->D = slow is B and Fast is D
+* A->B->C->D->E = slow is C and Fast is null
+* The right list is always equal to or is less than the left list
 ## Reversing the Linked List
-* Take a temp vaeriable and reverse each connection one by one
+* Take Three Variables Current Prev and Next and swap the links accordingly
