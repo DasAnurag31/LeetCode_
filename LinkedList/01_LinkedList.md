@@ -28,3 +28,8 @@ fast = head.next;
 * The right list is always equal to or is less than the left list
 ## Reversing the Linked List
 * Take Three Variables Current Prev and Next and swap the links accordingly
+## Detecting a Circular linked list 
+* Use Floyds Algo 
+  * Start the slow and the fast pointer from the starting node (use dummy to avoid edge cases) 
+  * Increment the slow pointer by one and the fast by two 
+  * The Place where the fast and the slow pointer meet is called the first intersection and we can conclude that there exists a loop
