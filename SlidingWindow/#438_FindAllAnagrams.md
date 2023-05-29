@@ -28,7 +28,7 @@ class Solution {
             if (countS.equals(countP)) {
                 result.add(left);
             }
-            if (right - left == p.length()) {
+            if (right - left == p.length()) { //IMPORTANT
                 char leftChar = s.charAt(left);
                 if (countS.containsKey(leftChar)) {
                     countS.put(leftChar, countS.get(leftChar) - 1);
