@@ -1,7 +1,7 @@
 // Algo
 // * take a slow and a fast pointer , if they meet then there is a cycle 
 
-public class Solution {
+class Solution {
     public boolean hasCycle(ListNode head) {
         ListNode slow,fast;
         slow = head;

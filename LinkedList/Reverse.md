@@ -1,18 +1,17 @@
 # LinkedList | Reversal
 ## Algo:
-* Take three node variables, current, temp and prev and swap accordingly by storing the link to temp variable
+* the Start's next will always point to the stop at the end
 ## Code:
 ```
 class Solution {
     public ListNode reverseList(ListNode head) {
-        ListNode prev,current,temp;
-        prev=null;
-        current=head;
-        while(current != null){
-            temp = current.next;
-            current.next = prev;
-            prev = current;
-            current = temp;
+        ListNode stop = null;
+        ListNode prev = stop;
+        while (head != stop) {
+            ListNode next = head.next;
+            head.next = prev;
+            prev = head;
+            head = next;
         }
         return prev;
     }
