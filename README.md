@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0498-diagonal-traverse](https://github.com/DasAnurag31/LeetCode_/tree/master/0498-diagonal-traverse) |
 | [0948-sort-an-array](https://github.com/DasAnurag31/LeetCode_/tree/master/0948-sort-an-array) |
 ## Two Pointers
 |  |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/DasAnurag31/LeetCode_/tree/master/0948-sort-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/DasAnurag31/LeetCode_/tree/master/0498-diagonal-traverse) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/DasAnurag31/LeetCode_/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
