@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/DasAnurag31/LeetCode_/tree/master/0146-lru-cache) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/DasAnurag31/LeetCode_/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Design
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/DasAnurag31/LeetCode_/tree/master/0498-diagonal-traverse) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/DasAnurag31/LeetCode_/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Greedy
 |  |
 | ------- |
