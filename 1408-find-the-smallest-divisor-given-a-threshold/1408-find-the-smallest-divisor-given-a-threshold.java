@@ -8,7 +8,9 @@ class Solution {
      return sum <= threshold;
 }
     public int smallestDivisor(int[] nums, int threshold) {
-        int l =1, r= 1000_000 , ans = 0;
+        int l =1, r , ans = 0;
+        int max = Arrays.stream(nums).max().getAsInt();
+        r = max;
         while(l<=r){
             int mid = l + ((r-l)/2);
             if(can(nums,threshold,mid)){
