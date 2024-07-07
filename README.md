@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/DasAnurag31/LeetCode_/tree/master/0498-diagonal-traverse) |
+| [1642-water-bottles](https://github.com/DasAnurag31/LeetCode_/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/DasAnurag31/LeetCode_/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Greedy
 |  |
@@ -118,5 +119,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/DasAnurag31/LeetCode_/tree/master/1642-water-bottles) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DasAnurag31/LeetCode_/tree/master/2432-number-of-zero-filled-subarrays) |
 <!---LeetCode Topics End-->
