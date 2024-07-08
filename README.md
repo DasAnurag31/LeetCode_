@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DasAnurag31/LeetCode_/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/DasAnurag31/LeetCode_/tree/master/0151-reverse-words-in-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DasAnurag31/LeetCode_/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/DasAnurag31/LeetCode_/tree/master/0151-reverse-words-in-a-string) |
 | [0812-rotate-string](https://github.com/DasAnurag31/LeetCode_/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/DasAnurag31/LeetCode_/tree/master/1078-remove-outermost-parentheses) |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/DasAnurag31/LeetCode_/tree/master/0812-rotate-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/DasAnurag31/LeetCode_/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
