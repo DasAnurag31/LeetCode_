@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/DasAnurag31/LeetCode_/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/DasAnurag31/LeetCode_/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/DasAnurag31/LeetCode_/tree/master/0948-sort-an-array) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/DasAnurag31/LeetCode_/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Matrix
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/DasAnurag31/LeetCode_/tree/master/0151-reverse-words-in-a-string) |
 | [0812-rotate-string](https://github.com/DasAnurag31/LeetCode_/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/DasAnurag31/LeetCode_/tree/master/1078-remove-outermost-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/DasAnurag31/LeetCode_/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/DasAnurag31/LeetCode_/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
