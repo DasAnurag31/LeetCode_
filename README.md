@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/DasAnurag31/LeetCode_/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/DasAnurag31/LeetCode_/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/DasAnurag31/LeetCode_/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/DasAnurag31/LeetCode_/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0090-subsets-ii) |
+| [0139-word-break](https://github.com/DasAnurag31/LeetCode_/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DasAnurag31/LeetCode_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/DasAnurag31/LeetCode_/tree/master/0493-reverse-pairs) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DasAnurag31/LeetCode_/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/DasAnurag31/LeetCode_/tree/master/0022-generate-parentheses) |
+| [0139-word-break](https://github.com/DasAnurag31/LeetCode_/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/DasAnurag31/LeetCode_/tree/master/0151-reverse-words-in-a-string) |
 | [0812-rotate-string](https://github.com/DasAnurag31/LeetCode_/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/DasAnurag31/LeetCode_/tree/master/1078-remove-outermost-parentheses) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DasAnurag31/LeetCode_/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/DasAnurag31/LeetCode_/tree/master/0022-generate-parentheses) |
+| [0139-word-break](https://github.com/DasAnurag31/LeetCode_/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -179,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0090-subsets-ii) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/DasAnurag31/LeetCode_/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/DasAnurag31/LeetCode_/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
