@@ -1,11 +1,5 @@
 class Solution {
-    private boolean dfs(
-        String s,
-        int prev,
-        int cur,
-        Set<String> wordDict,
-        Set<Integer> visited
-    ) {
+    private boolean dfs(String s, int prev, int cur, Set<String> wordDict, Set<Integer> visited) {
         if (cur == s.length()) {
             return true;
         }
