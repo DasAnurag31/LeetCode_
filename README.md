@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/DasAnurag31/LeetCode_/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/DasAnurag31/LeetCode_/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/DasAnurag31/LeetCode_/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/DasAnurag31/LeetCode_/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/DasAnurag31/LeetCode_/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/DasAnurag31/LeetCode_/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/DasAnurag31/LeetCode_/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0090-subsets-ii) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/DasAnurag31/LeetCode_/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/DasAnurag31/LeetCode_/tree/master/0498-diagonal-traverse) |
 ## Simulation
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/DasAnurag31/LeetCode_/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/DasAnurag31/LeetCode_/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/DasAnurag31/LeetCode_/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0090-subsets-ii) |
