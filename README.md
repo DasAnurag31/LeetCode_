@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/DasAnurag31/LeetCode_/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/DasAnurag31/LeetCode_/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1646-kth-missing-positive-number](https://github.com/DasAnurag31/LeetCode_/tree/master/1646-kth-missing-positive-number) |
+| [1720-crawler-log-folder](https://github.com/DasAnurag31/LeetCode_/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DasAnurag31/LeetCode_/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DasAnurag31/LeetCode_/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Two Pointers
@@ -156,12 +157,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/DasAnurag31/LeetCode_/tree/master/0151-reverse-words-in-a-string) |
 | [0812-rotate-string](https://github.com/DasAnurag31/LeetCode_/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/DasAnurag31/LeetCode_/tree/master/1078-remove-outermost-parentheses) |
+| [1720-crawler-log-folder](https://github.com/DasAnurag31/LeetCode_/tree/master/1720-crawler-log-folder) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/DasAnurag31/LeetCode_/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/DasAnurag31/LeetCode_/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/DasAnurag31/LeetCode_/tree/master/1078-remove-outermost-parentheses) |
+| [1720-crawler-log-folder](https://github.com/DasAnurag31/LeetCode_/tree/master/1720-crawler-log-folder) |
 ## String Matching
 |  |
 | ------- |
