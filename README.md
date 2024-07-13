@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/DasAnurag31/LeetCode_/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DasAnurag31/LeetCode_/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DasAnurag31/LeetCode_/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2846-robot-collisions](https://github.com/DasAnurag31/LeetCode_/tree/master/2846-robot-collisions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/DasAnurag31/LeetCode_/tree/master/0948-sort-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/DasAnurag31/LeetCode_/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2846-robot-collisions](https://github.com/DasAnurag31/LeetCode_/tree/master/2846-robot-collisions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/DasAnurag31/LeetCode_/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DasAnurag31/LeetCode_/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/DasAnurag31/LeetCode_/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2846-robot-collisions](https://github.com/DasAnurag31/LeetCode_/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/DasAnurag31/LeetCode_/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DasAnurag31/LeetCode_/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/DasAnurag31/LeetCode_/tree/master/1720-crawler-log-folder) |
+| [2846-robot-collisions](https://github.com/DasAnurag31/LeetCode_/tree/master/2846-robot-collisions) |
 ## String Matching
 |  |
 | ------- |
