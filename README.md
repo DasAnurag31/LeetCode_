@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/DasAnurag31/LeetCode_/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/DasAnurag31/LeetCode_/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/DasAnurag31/LeetCode_/tree/master/0726-number-of-atoms) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/DasAnurag31/LeetCode_/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Linked List
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/DasAnurag31/LeetCode_/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/DasAnurag31/LeetCode_/tree/master/0948-sort-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/DasAnurag31/LeetCode_/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/DasAnurag31/LeetCode_/tree/master/2846-robot-collisions) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/DasAnurag31/LeetCode_/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/DasAnurag31/LeetCode_/tree/master/0151-reverse-words-in-a-string) |
 | [0282-expression-add-operators](https://github.com/DasAnurag31/LeetCode_/tree/master/0282-expression-add-operators) |
+| [0726-number-of-atoms](https://github.com/DasAnurag31/LeetCode_/tree/master/0726-number-of-atoms) |
 | [0812-rotate-string](https://github.com/DasAnurag31/LeetCode_/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/DasAnurag31/LeetCode_/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DasAnurag31/LeetCode_/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/DasAnurag31/LeetCode_/tree/master/0726-number-of-atoms) |
 | [1078-remove-outermost-parentheses](https://github.com/DasAnurag31/LeetCode_/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DasAnurag31/LeetCode_/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/DasAnurag31/LeetCode_/tree/master/1720-crawler-log-folder) |
