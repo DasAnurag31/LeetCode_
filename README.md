@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/DasAnurag31/LeetCode_/tree/master/0726-number-of-atoms) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/DasAnurag31/LeetCode_/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2502-sort-the-people](https://github.com/DasAnurag31/LeetCode_/tree/master/2502-sort-the-people) |
 ## Linked List
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/DasAnurag31/LeetCode_/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DasAnurag31/LeetCode_/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DasAnurag31/LeetCode_/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2502-sort-the-people](https://github.com/DasAnurag31/LeetCode_/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/DasAnurag31/LeetCode_/tree/master/2846-robot-collisions) |
 ## Two Pointers
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/DasAnurag31/LeetCode_/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/DasAnurag31/LeetCode_/tree/master/0948-sort-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/DasAnurag31/LeetCode_/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2502-sort-the-people](https://github.com/DasAnurag31/LeetCode_/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/DasAnurag31/LeetCode_/tree/master/2846-robot-collisions) |
 ## Divide and Conquer
 |  |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/DasAnurag31/LeetCode_/tree/master/1720-crawler-log-folder) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/DasAnurag31/LeetCode_/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/DasAnurag31/LeetCode_/tree/master/2032-largest-odd-number-in-string) |
+| [2502-sort-the-people](https://github.com/DasAnurag31/LeetCode_/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
