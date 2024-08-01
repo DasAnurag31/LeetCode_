@@ -1,50 +1,31 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
-    private  TreeNode store;
-    public void helper(TreeNode root) {
-        if (root.left == null && root.right == null) {
-            store = root;
-            return;
+    private TreeNode helper(TreeNode root){
+        if(root == null){
+            return root;
         }
-        
-        if (root.left != null) {
-            helper(root.left);
+        if(root.left == null && root.right == null){
+            return root;
         }
-        
-        TreeNode temp = root.right;
-        
-        if (store != null) {
-            root.right = root.left;
-            store.right = temp;
+        TreeNode leftChild = root.left;
+        TreeNode rightChild = root.right;
+        if(leftChild != null){
+            TreeNode left = helper(leftChild);
+            root.right = left;
+            while(left.right != null){
+                left = left.right;
+            }
+            if(rightChild != null){
+                left.right = helper(rightChild);
+            }
         }
-        
+        else{
+            TreeNode right = helper(root.right);
+            root.right = right;
+        }
         root.left = null;
-        
-        if (temp != null) {
-            store = null;
-            helper(temp);
-        }
+        return root;
     }
-
     public void flatten(TreeNode root) {
-        if (root == null || (root.left == null && root.right == null)) {
-            return;
-        }
-       
         helper(root);
     }
 }
