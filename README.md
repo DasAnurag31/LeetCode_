@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/DasAnurag31/LeetCode_/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/DasAnurag31/LeetCode_/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/DasAnurag31/LeetCode_/tree/master/0907-koko-eating-bananas) |
+| [0921-spiral-matrix-iii](https://github.com/DasAnurag31/LeetCode_/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/DasAnurag31/LeetCode_/tree/master/0948-sort-an-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DasAnurag31/LeetCode_/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1196-filling-bookcase-shelves](https://github.com/DasAnurag31/LeetCode_/tree/master/1196-filling-bookcase-shelves) |
@@ -123,11 +124,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/DasAnurag31/LeetCode_/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/DasAnurag31/LeetCode_/tree/master/0498-diagonal-traverse) |
+| [0921-spiral-matrix-iii](https://github.com/DasAnurag31/LeetCode_/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DasAnurag31/LeetCode_/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/DasAnurag31/LeetCode_/tree/master/0498-diagonal-traverse) |
+| [0921-spiral-matrix-iii](https://github.com/DasAnurag31/LeetCode_/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/DasAnurag31/LeetCode_/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DasAnurag31/LeetCode_/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/DasAnurag31/LeetCode_/tree/master/2299-merge-nodes-in-between-zeros) |
