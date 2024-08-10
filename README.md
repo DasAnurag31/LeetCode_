@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/DasAnurag31/LeetCode_/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/DasAnurag31/LeetCode_/tree/master/0726-number-of-atoms) |
+| [0999-regions-cut-by-slashes](https://github.com/DasAnurag31/LeetCode_/tree/master/0999-regions-cut-by-slashes) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/DasAnurag31/LeetCode_/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2502-sort-the-people](https://github.com/DasAnurag31/LeetCode_/tree/master/2502-sort-the-people) |
 ## Linked List
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/DasAnurag31/LeetCode_/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/DasAnurag31/LeetCode_/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/DasAnurag31/LeetCode_/tree/master/0948-sort-an-array) |
+| [0999-regions-cut-by-slashes](https://github.com/DasAnurag31/LeetCode_/tree/master/0999-regions-cut-by-slashes) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DasAnurag31/LeetCode_/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1196-filling-bookcase-shelves](https://github.com/DasAnurag31/LeetCode_/tree/master/1196-filling-bookcase-shelves) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/DasAnurag31/LeetCode_/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/DasAnurag31/LeetCode_/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/DasAnurag31/LeetCode_/tree/master/0498-diagonal-traverse) |
 | [0921-spiral-matrix-iii](https://github.com/DasAnurag31/LeetCode_/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/DasAnurag31/LeetCode_/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DasAnurag31/LeetCode_/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Simulation
 |  |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/DasAnurag31/LeetCode_/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DasAnurag31/LeetCode_/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DasAnurag31/LeetCode_/tree/master/0662-maximum-width-of-binary-tree) |
+| [0999-regions-cut-by-slashes](https://github.com/DasAnurag31/LeetCode_/tree/master/0999-regions-cut-by-slashes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -289,8 +293,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/DasAnurag31/LeetCode_/tree/master/0102-binary-tree-level-order-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DasAnurag31/LeetCode_/tree/master/0662-maximum-width-of-binary-tree) |
+| [0999-regions-cut-by-slashes](https://github.com/DasAnurag31/LeetCode_/tree/master/0999-regions-cut-by-slashes) |
 ## Sliding Window
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/DasAnurag31/LeetCode_/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
