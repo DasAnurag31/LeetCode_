@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/DasAnurag31/LeetCode_/tree/master/0037-sudoku-solver) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DasAnurag31/LeetCode_/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/DasAnurag31/LeetCode_/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/DasAnurag31/LeetCode_/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/DasAnurag31/LeetCode_/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DasAnurag31/LeetCode_/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/DasAnurag31/LeetCode_/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DasAnurag31/LeetCode_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DasAnurag31/LeetCode_/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0493-reverse-pairs](https://github.com/DasAnurag31/LeetCode_/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/DasAnurag31/LeetCode_/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DasAnurag31/LeetCode_/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/DasAnurag31/LeetCode_/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DasAnurag31/LeetCode_/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DasAnurag31/LeetCode_/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DasAnurag31/LeetCode_/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DasAnurag31/LeetCode_/tree/master/0144-binary-tree-preorder-traversal) |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DasAnurag31/LeetCode_/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/DasAnurag31/LeetCode_/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DasAnurag31/LeetCode_/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DasAnurag31/LeetCode_/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DasAnurag31/LeetCode_/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DasAnurag31/LeetCode_/tree/master/0144-binary-tree-preorder-traversal) |
