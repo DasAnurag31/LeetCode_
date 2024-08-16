@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/DasAnurag31/LeetCode_/tree/master/0146-lru-cache) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/DasAnurag31/LeetCode_/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/DasAnurag31/LeetCode_/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/DasAnurag31/LeetCode_/tree/master/0151-reverse-words-in-a-string) |
 | [0282-expression-add-operators](https://github.com/DasAnurag31/LeetCode_/tree/master/0282-expression-add-operators) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/DasAnurag31/LeetCode_/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0726-number-of-atoms](https://github.com/DasAnurag31/LeetCode_/tree/master/0726-number-of-atoms) |
 | [0800-letter-case-permutation](https://github.com/DasAnurag31/LeetCode_/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/DasAnurag31/LeetCode_/tree/master/0812-rotate-string) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/DasAnurag31/LeetCode_/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DasAnurag31/LeetCode_/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DasAnurag31/LeetCode_/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/DasAnurag31/LeetCode_/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DasAnurag31/LeetCode_/tree/master/0662-maximum-width-of-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DasAnurag31/LeetCode_/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/DasAnurag31/LeetCode_/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DasAnurag31/LeetCode_/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DasAnurag31/LeetCode_/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/DasAnurag31/LeetCode_/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DasAnurag31/LeetCode_/tree/master/0662-maximum-width-of-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/DasAnurag31/LeetCode_/tree/master/0999-regions-cut-by-slashes) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DasAnurag31/LeetCode_/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -301,12 +305,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/DasAnurag31/LeetCode_/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DasAnurag31/LeetCode_/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DasAnurag31/LeetCode_/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/DasAnurag31/LeetCode_/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DasAnurag31/LeetCode_/tree/master/0662-maximum-width-of-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DasAnurag31/LeetCode_/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/DasAnurag31/LeetCode_/tree/master/0102-binary-tree-level-order-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/DasAnurag31/LeetCode_/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DasAnurag31/LeetCode_/tree/master/0662-maximum-width-of-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/DasAnurag31/LeetCode_/tree/master/0999-regions-cut-by-slashes) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DasAnurag31/LeetCode_/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
