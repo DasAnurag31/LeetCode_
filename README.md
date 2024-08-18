@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/DasAnurag31/LeetCode_/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/DasAnurag31/LeetCode_/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/DasAnurag31/LeetCode_/tree/master/0999-regions-cut-by-slashes) |
+| [1036-rotting-oranges](https://github.com/DasAnurag31/LeetCode_/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DasAnurag31/LeetCode_/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1196-filling-bookcase-shelves](https://github.com/DasAnurag31/LeetCode_/tree/master/1196-filling-bookcase-shelves) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/DasAnurag31/LeetCode_/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/DasAnurag31/LeetCode_/tree/master/0498-diagonal-traverse) |
 | [0921-spiral-matrix-iii](https://github.com/DasAnurag31/LeetCode_/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/DasAnurag31/LeetCode_/tree/master/0999-regions-cut-by-slashes) |
+| [1036-rotting-oranges](https://github.com/DasAnurag31/LeetCode_/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DasAnurag31/LeetCode_/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Simulation
 |  |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/DasAnurag31/LeetCode_/tree/master/0449-serialize-and-deserialize-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DasAnurag31/LeetCode_/tree/master/0662-maximum-width-of-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/DasAnurag31/LeetCode_/tree/master/0999-regions-cut-by-slashes) |
+| [1036-rotting-oranges](https://github.com/DasAnurag31/LeetCode_/tree/master/1036-rotting-oranges) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DasAnurag31/LeetCode_/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Sliding Window
 |  |
