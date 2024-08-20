@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1300-critical-connections-in-a-network](https://github.com/DasAnurag31/LeetCode_/tree/master/1300-critical-connections-in-a-network) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/DasAnurag31/LeetCode_/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/DasAnurag31/LeetCode_/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/DasAnurag31/LeetCode_/tree/master/0449-serialize-and-deserialize-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DasAnurag31/LeetCode_/tree/master/0662-maximum-width-of-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/DasAnurag31/LeetCode_/tree/master/0999-regions-cut-by-slashes) |
+| [1300-critical-connections-in-a-network](https://github.com/DasAnurag31/LeetCode_/tree/master/1300-critical-connections-in-a-network) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DasAnurag31/LeetCode_/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -340,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/DasAnurag31/LeetCode_/tree/master/0449-serialize-and-deserialize-bst) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/DasAnurag31/LeetCode_/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
