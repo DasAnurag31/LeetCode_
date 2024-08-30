@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/DasAnurag31/LeetCode_/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/DasAnurag31/LeetCode_/tree/master/0070-climbing-stairs) |
 | [0282-expression-add-operators](https://github.com/DasAnurag31/LeetCode_/tree/master/0282-expression-add-operators) |
 | [1642-water-bottles](https://github.com/DasAnurag31/LeetCode_/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DasAnurag31/LeetCode_/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DasAnurag31/LeetCode_/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/DasAnurag31/LeetCode_/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/DasAnurag31/LeetCode_/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DasAnurag31/LeetCode_/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/DasAnurag31/LeetCode_/tree/master/0139-word-break) |
 | [1196-filling-bookcase-shelves](https://github.com/DasAnurag31/LeetCode_/tree/master/1196-filling-bookcase-shelves) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/DasAnurag31/LeetCode_/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/DasAnurag31/LeetCode_/tree/master/0139-word-break) |
 ## Graph
 |  |
