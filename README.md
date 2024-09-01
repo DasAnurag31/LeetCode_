@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/DasAnurag31/LeetCode_/tree/master/1646-kth-missing-positive-number) |
 | [1720-crawler-log-folder](https://github.com/DasAnurag31/LeetCode_/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DasAnurag31/LeetCode_/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/DasAnurag31/LeetCode_/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DasAnurag31/LeetCode_/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2502-sort-the-people](https://github.com/DasAnurag31/LeetCode_/tree/master/2502-sort-the-people) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/DasAnurag31/LeetCode_/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/DasAnurag31/LeetCode_/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DasAnurag31/LeetCode_/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/DasAnurag31/LeetCode_/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/DasAnurag31/LeetCode_/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/DasAnurag31/LeetCode_/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DasAnurag31/LeetCode_/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/DasAnurag31/LeetCode_/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/DasAnurag31/LeetCode_/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2846-robot-collisions](https://github.com/DasAnurag31/LeetCode_/tree/master/2846-robot-collisions) |
 ## Greedy
