@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/DasAnurag31/LeetCode_/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DasAnurag31/LeetCode_/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/DasAnurag31/LeetCode_/tree/master/0624-maximum-distance-in-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DasAnurag31/LeetCode_/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/DasAnurag31/LeetCode_/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/DasAnurag31/LeetCode_/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/DasAnurag31/LeetCode_/tree/master/0921-spiral-matrix-iii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DasAnurag31/LeetCode_/tree/master/0628-maximum-product-of-three-numbers) |
 | [0726-number-of-atoms](https://github.com/DasAnurag31/LeetCode_/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/DasAnurag31/LeetCode_/tree/master/0948-sort-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/DasAnurag31/LeetCode_/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/DasAnurag31/LeetCode_/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/DasAnurag31/LeetCode_/tree/master/0070-climbing-stairs) |
 | [0282-expression-add-operators](https://github.com/DasAnurag31/LeetCode_/tree/master/0282-expression-add-operators) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DasAnurag31/LeetCode_/tree/master/0628-maximum-product-of-three-numbers) |
 | [1642-water-bottles](https://github.com/DasAnurag31/LeetCode_/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DasAnurag31/LeetCode_/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/DasAnurag31/LeetCode_/tree/master/2032-largest-odd-number-in-string) |
