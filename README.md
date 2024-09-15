@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/DasAnurag31/LeetCode_/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/DasAnurag31/LeetCode_/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/DasAnurag31/LeetCode_/tree/master/0921-spiral-matrix-iii) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/DasAnurag31/LeetCode_/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0948-sort-an-array](https://github.com/DasAnurag31/LeetCode_/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/DasAnurag31/LeetCode_/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/DasAnurag31/LeetCode_/tree/master/1036-rotting-oranges) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/DasAnurag31/LeetCode_/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/DasAnurag31/LeetCode_/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/DasAnurag31/LeetCode_/tree/master/0198-house-robber) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/DasAnurag31/LeetCode_/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1196-filling-bookcase-shelves](https://github.com/DasAnurag31/LeetCode_/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/DasAnurag31/LeetCode_/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/DasAnurag31/LeetCode_/tree/master/1511-count-number-of-teams) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0090-subsets-ii) |
 | [0800-letter-case-permutation](https://github.com/DasAnurag31/LeetCode_/tree/master/0800-letter-case-permutation) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/DasAnurag31/LeetCode_/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/DasAnurag31/LeetCode_/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Trie
 |  |
