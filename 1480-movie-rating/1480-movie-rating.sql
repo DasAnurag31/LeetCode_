@@ -6,7 +6,7 @@ GROUP BY M.user_id
 ORDER BY COUNT(rating) DESC, name 
 LIMIT 1) 
 
-UNION ALL 
+UNION ALL
 
 (SELECT title AS results 
 FROM Movies 
