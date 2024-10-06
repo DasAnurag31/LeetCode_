@@ -4,17 +4,15 @@ public class Solution {
             return s;
         }
 
-        String maxStr = s.substring(0, 1);
+        String maxStr = ""; 
 
-        for (int i = 0; i < s.length() - 1; i++) {
-            String odd = expandFromCenter(s, i, i);
-            String even = expandFromCenter(s, i, i + 1);
+        for (double i = 0; i < s.length(); i += 0.5) {
+            int left = (int) Math.floor(i);
+            int right = (int) Math.ceil(i);
 
-            if (odd.length() > maxStr.length()) {
-                maxStr = odd;
-            }
-            if (even.length() > maxStr.length()) {
-                maxStr = even;
+            String palindrome = expandFromCenter(s, left, right);
+            if (palindrome.length() > maxStr.length()) {
+                maxStr = palindrome;
             }
         }
 
