@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/DasAnurag31/LeetCode_/tree/master/0368-largest-divisible-subset) |
 | [0493-reverse-pairs](https://github.com/DasAnurag31/LeetCode_/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/DasAnurag31/LeetCode_/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/DasAnurag31/LeetCode_/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DasAnurag31/LeetCode_/tree/master/0540-single-element-in-a-sorted-array) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/DasAnurag31/LeetCode_/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/DasAnurag31/LeetCode_/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/DasAnurag31/LeetCode_/tree/master/0368-largest-divisible-subset) |
+| [0494-target-sum](https://github.com/DasAnurag31/LeetCode_/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0518-coin-change-ii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/DasAnurag31/LeetCode_/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1129-longest-string-chain](https://github.com/DasAnurag31/LeetCode_/tree/master/1129-longest-string-chain) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/DasAnurag31/LeetCode_/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0090-subsets-ii) |
 | [0282-expression-add-operators](https://github.com/DasAnurag31/LeetCode_/tree/master/0282-expression-add-operators) |
+| [0494-target-sum](https://github.com/DasAnurag31/LeetCode_/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/DasAnurag31/LeetCode_/tree/master/0800-letter-case-permutation) |
 ## Bit Manipulation
 |  |
