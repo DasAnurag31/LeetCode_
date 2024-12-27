@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/DasAnurag31/LeetCode_/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/DasAnurag31/LeetCode_/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DasAnurag31/LeetCode_/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1063-best-sightseeing-pair](https://github.com/DasAnurag31/LeetCode_/tree/master/1063-best-sightseeing-pair) |
 | [1129-longest-string-chain](https://github.com/DasAnurag31/LeetCode_/tree/master/1129-longest-string-chain) |
 | [1196-filling-bookcase-shelves](https://github.com/DasAnurag31/LeetCode_/tree/master/1196-filling-bookcase-shelves) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/DasAnurag31/LeetCode_/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/DasAnurag31/LeetCode_/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0518-coin-change-ii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/DasAnurag31/LeetCode_/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1063-best-sightseeing-pair](https://github.com/DasAnurag31/LeetCode_/tree/master/1063-best-sightseeing-pair) |
 | [1129-longest-string-chain](https://github.com/DasAnurag31/LeetCode_/tree/master/1129-longest-string-chain) |
 | [1196-filling-bookcase-shelves](https://github.com/DasAnurag31/LeetCode_/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/DasAnurag31/LeetCode_/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
