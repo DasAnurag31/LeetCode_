@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/DasAnurag31/LeetCode_/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/DasAnurag31/LeetCode_/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DasAnurag31/LeetCode_/tree/master/0628-maximum-product-of-three-numbers) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/DasAnurag31/LeetCode_/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0792-binary-search](https://github.com/DasAnurag31/LeetCode_/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/DasAnurag31/LeetCode_/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/DasAnurag31/LeetCode_/tree/master/0921-spiral-matrix-iii) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/DasAnurag31/LeetCode_/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/DasAnurag31/LeetCode_/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/0518-coin-change-ii) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/DasAnurag31/LeetCode_/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/DasAnurag31/LeetCode_/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/DasAnurag31/LeetCode_/tree/master/1063-best-sightseeing-pair) |
 | [1129-longest-string-chain](https://github.com/DasAnurag31/LeetCode_/tree/master/1129-longest-string-chain) |
