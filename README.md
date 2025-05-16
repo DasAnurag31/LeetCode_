@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/DasAnurag31/LeetCode_/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/DasAnurag31/LeetCode_/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/DasAnurag31/LeetCode_/tree/master/2846-robot-collisions) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/DasAnurag31/LeetCode_/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/DasAnurag31/LeetCode_/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Two Pointers
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/DasAnurag31/LeetCode_/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2502-sort-the-people](https://github.com/DasAnurag31/LeetCode_/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/DasAnurag31/LeetCode_/tree/master/2727-number-of-senior-citizens) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/DasAnurag31/LeetCode_/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/DasAnurag31/LeetCode_/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/DasAnurag31/LeetCode_/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/DasAnurag31/LeetCode_/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/DasAnurag31/LeetCode_/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Backtracking
 |  |
 | ------- |
