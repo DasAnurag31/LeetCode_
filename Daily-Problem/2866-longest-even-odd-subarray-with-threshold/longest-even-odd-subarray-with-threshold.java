@@ -3,6 +3,9 @@ class Solution {
         int max = 0;
         int left = 0, right = 0;
         while(right < nums.length){
+            
+
+
             while(left < nums.length && nums[left] % 2 != 0){
                 left++;
             }
@@ -27,10 +30,9 @@ class Solution {
                 } 
             }
             if(nums[right] > k){
-                // shrink
                 left++;
-                continue;
-            }else{
+            }
+            else{
                 System.out.println(left + " " + right);
                 max = Math.max(max, right - left + 1);
                 right++;
